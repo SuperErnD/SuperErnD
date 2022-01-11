@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Im dev BlueOS 0.5 years!
 
 
+<a href="https://github.com/xiaokang00010">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=xiaokang00010" />
+</a>
+<a href="https://github.com/xiaokang00010">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaokang00010" />
+</a>
