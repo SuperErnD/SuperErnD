@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on BlueOS
-- 🌱 I’m currently learning Python,Osdev
+- 🔭 I’m currently working on OpenWiki!
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on None!)
-- 🤔 I’m looking for help with BlueOS
-- 💬 Ask me about Osdev?
-- 📫 How to reach me: Discord : Diman#5397 (RUS)
+- 🤔 I’m looking for help with OpenWiki!
+- 💬 Ask me about developing with python?
+- 📫 How to reach me: Discord : TheDiman#5397 (RUS)
 - 😄 Pronouns: none..
-- ⚡ Fun fact: Im dev BlueOS 0.5 years!
+- ⚡ Fun fact: Im starting dev openwiki....
 
 
 <a href="https://github.com/SuperErnD">
