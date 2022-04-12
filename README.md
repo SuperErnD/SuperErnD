@@ -1,18 +1,16 @@
-### Hi there 👋
+### Hi 👋
+
+Im python developer and learning JS/TS
 
 
-**SuperErnD/SuperErnD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on OpenWiki!
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on None!)
-- 🤔 I’m looking for help with OpenWiki!
-- 💬 Ask me about developing with python?
-- 📫 How to reach me: Discord : TheDiman#5397 (RUS)
-- 😄 Pronouns: none..
-- ⚡ Fun fact: Im starting dev openwiki....
+- 🔭 I’m currently working on BlueBot!
+- 🌱 I’m currently learning JS and TS
+- 👯 I’m looking to collaborate on nothing
+- 🤔 I’m looking for help with BlueBot
+- 💬 Ask me about developing with Web-development and bot-development?
+- 📫 How to reach me: Discord : TheDiman#2022 (RUS)
+- 😄 Pronouns: nothing.
 
 
 <a href="https://github.com/SuperErnD">
