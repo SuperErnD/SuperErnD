@@ -1,15 +1,15 @@
 ### Hi 👋
 
-Im python developer and learning JS/TS
+Im python developer and learning JS
 
 
 
-- 🔭 I’m currently working on BlueBot!
-- 🌱 I’m currently learning JS and TS
+- 🔭 I’m currently working on nothing:(
+- 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with BlueBot
 - 💬 Ask me about developing with Web-development and bot-development?
-- 📫 How to reach me: Discord : TheDiman#2022 (RUS)
+- 📫 How to reach me: Discord : NoneType#6158 (RUS)
 - 😄 Pronouns: nothing.
 
 
