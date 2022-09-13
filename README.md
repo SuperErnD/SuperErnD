@@ -1,5 +1,7 @@
 ### Hey! 👋
 
+<img align="center" src="https://tag.rc24.xyz/858307410757681172/tag.png" />
+
 I Diman\SuperErnD (Real Name: Dima)
 
 Languages: Ru, En
