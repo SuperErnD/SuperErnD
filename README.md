@@ -2,25 +2,25 @@
 
 <img align="center" src="https://tag.rc24.xyz/858307410757681172/tag.png" />
 
-I Diman\SuperErnD (Real Name: Dima)
+I am a Diman or SuperErnD or askiic
 
-Languages: Ru, En
+I speak in..
+ * Russian
+ * English
+ * Ukrainian
 
 I write code on..
- * Vanilla PHP (i dont like MVC, and any php web-framework)
  * JavaScript 
  * SQL
  * Python
- * HTML, CSS (Not language ;D)
+ * C
 
-Writing "big" project with name Open Live on PHP
-
-I love dogs :D
+Writing a ???? for ARM in C
 
 Me in..:
- * Discord: NullIdea#6158
- * OpenVK: https://openvk.su/nonetype
- * Open Live: soon
+ * Discord: ever_daemon
+ * Fediverse: @diman@schicksal.im
+ * Email: me@schicksal.im
 
 <a href="https://github.com/SuperErnD">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SuperErnD" />
