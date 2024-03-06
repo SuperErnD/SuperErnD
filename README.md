@@ -1,6 +1,8 @@
 ### Hey! 👋
 
-I am a Diman or SuperErnD
+#### My name is Diman (but you also can say SuperErnD!)
+
+I mostly develop and sometimes reverse engeering. (oh, an yet another exception, why)
 
 I speak in..
  * Russian
